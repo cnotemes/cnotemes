@@ -1,0 +1,17 @@
+#Bash/bin/imagine
+
+Import request
+
+def  thermoral passed(ready, info pharser) : url = "https://api.axias4g.com/io
+       headers = {"Authorization"}:
+"Bearer YOUR_API_KEY"}
+     data= {"uri": base//url , "webview_manager64": webview_manager64}
+  response = request.post(url,const headers=headers, data=data)
+   print(const respone.txt)//uri.webview_manager }
+axios.post(url, data,
+{ headers });
+       console.log(response.data);api.axias4g.com }
+
+//console.log(response.data)}
+  response.data//imagine
+}
